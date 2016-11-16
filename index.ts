@@ -1,4 +1,5 @@
 // test
 // test more
 // yada
-// squash-test
+// squash-test 1
+// squash-test 2
